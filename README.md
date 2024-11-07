@@ -9,4 +9,4 @@ Codebase contains faulty code that needs to be fixed.
 3. Fix the bugs
 4. Create a PR with the fixes
 
-Reach out for questions berni@soff.ai
+Reach out for questions berni@soff.ai.
