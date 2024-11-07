@@ -1,5 +1,8 @@
 # CDTM Session Prep
 
+<img width="1865" alt="image" src="https://github.com/user-attachments/assets/0a805910-f70d-4a63-8818-de5f721c3b40">
+
+
 Codebase contains faulty code that needs to be fixed.
 
 ## Instructions
